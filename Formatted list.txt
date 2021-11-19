@@ -1,0 +1,65 @@
+Publications for Sandi Baressi Šegota
+
+Journals, indexed in Web of Science
+
+Lorencin, I et al.: Automatic Evaluation of the Lung Condition of COVID-19 Patients Using X-ray Images and Convolutional Neural Networks; in Journal of Personalized Medicine, 2021
+Anđelić, N et al.: Estimation of COVID-19 epidemic curves using genetic programming algorithm; in Health informatics journal, 2021
+Anđelić, N et al.: Estimation of covid-19 epidemiology curve of the united states using genetic programming algorithm; in International Journal of Environmental Research and Public Health, 2021
+Lorencin, I et al.: On Urinary Bladder Cancer Diagnosis: Utilization of Deep Convolutional Generative Adversarial Networks for Data Augmentation; in Biology, 2021
+Musulin, J et al.: Application of Artificial Intelligence-Based Regression Methods in the Problem of COVID-19 Spread Prediction: A Systematic Review; in International Journal of Environmental Research and Public Health, 2021
+Anđelić, N et al.: Use of Genetic Programming for the Estimation of CODLAG Propulsion System Parameters; in Journal of Marine Science and Engineering, 2021
+Baressi Šegota, S et al.: Utilization of multilayer perceptron for determining the inverse kinematics of an industrial robotic manipulator; in International Journal of Advanced Robotic Systems, 2021
+Blagojević, A et al.: Artificial intelligence approach towards assessment of condition of COVID-19 patients-Identification of predictive biomarkers associated with severity of clinical condition and disease progression; in Computers in biology and medicine, 2021
+Šušteršič, T et al.: Epidemiological Predictive Modeling of COVID-19 Infection: Development, Testing, and Implementation on the Population of the Benelux Union; in Frontiers in Public Health, 2021
+Baressi Šegota, S et al.: Semantic Segmentation of Urinary Bladder Cancer Masses From CT Images: A Transfer Learning Approach; in Biology, 2021
+Baressi Šegota, S et al.: Path planning optimization of six-degree-of-freedom robotic manipulators using evolutionary algorithms; in International Journal of Advanced Robotic Systems, 2020
+Car, Z et al.: Modeling the Spread of COVID-19 Infection Using a Multilayer Perceptron; in Computational and Mathematical Methods in Medicine, 2020
+Štifanić, D et al.: Impact of COVID-19 on forecasting stock prices: an integration of stationary wavelet transform and bidirectional long short-term memory; in Complexity, 2020
+Baressi Šegota, S et al.: Improvement of Marine Steam Turbine Conventional Exergy Analysis by Neural Network Application; in Journal of Marine Science and Engineering, 2020
+
+
+Journals, indexed in Web of Science, domestic
+
+Mrzljak, V et al.: The influence of various optimization algorithms on nuclear power plant steam turbine exergy efficiency and destruction; in Pomorstvo, 2021
+Baressi Šegota, S et al.: Neural Network-Based Model for Classification of Faults During Operation of a Robotic Manipulator; in Technical Gazzete, 2021
+Baressi Šegota, S et al.: Frigate speed estimation using CODLAG propulsion system parameters and multilayer perceptron; in NAŠE MORE: znanstveni časopis za more i pomorstvo, 2020
+Medica-Viola, V et al.: Comparison of conventional and heat balance based energy analyses of steam turbine; in Pomorstvo, 2020
+Anđelić, N et al.: Estimation of gas turbine shaft torque and fuel flow of a CODLAG propulsion system using genetic programming algorithm; in Pomorstvo, 2020
+Mrzljak, V et al.: Comparison of Power Distribution, Losses and Efficiencies of a Steam Turbine with and without Extractions; in Technical Journal, 2020
+Baressi Šegota, S et al.: Comparison of Conventional and Heat Balance Based Energy Analyses of Steam Turbine; in Pomorstvo, 2020
+
+
+Journals, other
+
+Blagojević, A et al.: Combined machine learning and finite element simulation approach towards personalized model for prognosis of COVID-19 disease development in patients; in EAI Endorsed Transactions on Bioengineering and Bioinformatics, 2021
+Baressi Šegota, S et al.: Automated Pipeline for Continual Data Gathering and Retraining of the Machine Learning-Based COVID-19 Spread Models; in EAI Endorsed Transactions on Bioengineering and Bioinformatics, 2021
+Štifanić, D et al.: Semantic segmentation of chest X-ray images based on the severity of COVID-19 infected patients; in EAI Endorsed Transactions on Bioengineering and Bioinformatics, 2021
+Mrzljak, V et al.: Energy and Exergy Analysis of Waste Heat Recovery Closed-Cycle Gas Turbine System while Operating with Different Medium; in Pomorski zbornik, 2021
+Baressi Šegota, S et al.: Use of Artificial Neural Network for Estimation of Propeller Torque Values in a CODLAG Propulsion System; in Journal of Maritime & Transportation Sciences, 2020
+Lorencin, I et al.: DATASET SIZE-BASED APPROACH IN DESIGN OF ARTIFICIAL NEURAL NETWORK FOR BREAST CANCER DIAGNOSIS; in World of Health, 2020
+Musulin, J et al.: COMPARISON OF THREE ARTIFICIAL INTELLIGENCE ALGORITHMS FOR SEPSIS PREDICTION; in World of Health, 2020
+Anđelić, N et al.: Comparison of Exergy and Various Energy Analysis Methods for a Main Marine Steam Turbine at Different Loads; in Pomorski zbornik, 2020
+Baressi Šegota, S et al.: Artificial neural network for predicting values of residuary resistance per unit weight of displacement; in Journal of Maritime & Transportation Sciences, 2019
+Baressi Šegota, S et al.: On the traveling salesman problem in nautical environments: an evolutionary computing approach to optimization of tourist route paths in Medulin, Croatia; in Journal of Maritime & Transportation Sciences, 2019
+
+
+Conference proceedings
+
+Mrzljak, V et al.: Efficiencies and losses comparison of three steam turbines–from conventional, nuclear and marine power plant; in Machines. Technologies. Materials., 2021
+Baressi Šegota, S et al.: A Brief Note on the Influence of Storage Choices on Machine Learning Algorithm Training Times; in Ri-STEM-2021, 2021
+Baressi Šegota, S et al.: Z4 HPC Cluster; in RI-STEM-2021, 2021
+Mrzljak, V et al.: Energy (isentropic) analysis of three-cylinder steam turbine with re-heating; in Energy, 2020
+Mrzljak, V et al.: Exergy analysis of steam condenser at various loads during the ambient temperature change; in Machines. Technologies. Materials., 2020
+Prpić-Oršić, J et al.: Solver parameter influence on the results of multilayer perceptron for estimating power output of a combined cycle power plant; in Industry 4.0, 2020
+Baressi Šegota, S et al.: Fault Detection in Robotic Manipulators using Support Vector Machines; in My First Conference, 2020
+Mrzljak, V et al.: Comparison of three methods for the pump energy analysis; in Mathematical Modeling, 2020
+Šušteršič, T et al.: EPIDEMIOLOGICAL PREDICTIVE MODELLING OF COVID-19 SPREAD; in 8th Conference of Serbian Society for Mechanics, n
+Car, Z et al.: DETERMINING INVERSE KINEMATICS OF A SERIAL ROBOTIC MANIPULATOR THROUGH THE USE OF GENETIC PROGRAMMING ALGORITHM; in 8th Conference of Serbian Society for Mechanics, 2021
+Vedran, M et al.: Efficiency and loss analysis of main steam condenser from nuclear power plant at various loads and ambient temperatures; in MTM, n
+Baressi Šegota, S et al.: Preparation of Simplified Molecular Input Line Entry System Notation Datasets for use in Convolutional Neural Networks; in IEEE BIBE, 2021
+Car, Z et al.: APPLICATION OF ARTIFICIAL INTELLIGENCE-BASED IMAGE ANALYSIS IN BIOINFORMATICS; in 1st ICCBIKG, 2021
+
+
+Book chapters
+
+Lorencin, I et al.: Edge Detector-Based Hybrid Artificial Neural Network Models for Urinary Bladder Cancer Diagnosis; in Enabling AI Applications in Data Science, 2020
